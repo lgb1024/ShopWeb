@@ -1,0 +1,40 @@
+#five{
+	width: 100%;
+	height: 320px;
+	display: flex;
+	position: absolute;
+}
+#five1{
+		width: 146px;
+		height: 125px;
+		border: 0x solid black;
+		
+		position: relative;
+		left: 180px;
+		top: 120px;
+		}
+#five1 span{
+	font-size: 30px;
+}		
+#five2{
+		width: 146px;
+		height: 125px;
+		border: 0x solid black;
+		
+		position: relative;
+		left: 350px;
+		top: 100px;}
+#five2 span{
+			font-size: 30px;
+		}
+		#five3{
+				width: 146px;
+				height: 125px;
+				border: 0x solid black;
+				
+				position: relative;
+				left: 150px;
+				top: 200px;}
+		#five3 span{
+					font-size: 30px;
+				}

@@ -1,0 +1,10 @@
+#seven{
+	width: 100%;
+	height: 500px;
+	border: 1px solid black;
+	position: relative;
+	top: 320px;
+	background-image: url(../img/slider-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
